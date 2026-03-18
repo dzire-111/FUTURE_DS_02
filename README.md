@@ -2,6 +2,10 @@
 Desire Sharma
 Data Analytics Project
 
+## Project Files
+Due to file size limitations, the main project file is available here:
+[Download Dashboard](https://drive.google.com/file/d/1Vm_h6VyBQJ2rZKFycouM4nan-QdtVB_D/view?usp=sharing)
+
 # Customer Churn & Retention Analysis Dashboard
 
 ## Project Overview
